@@ -1,29 +1,10 @@
 {
-  "name": "github",
-  "version": "1.0.0",
-  "description": "��#\u0000 \u00001\u0000s\u0000o\u0000m\u0000i\u0000y\u0000a\u0000\r\u0000 \u0000",
-  "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "test": "echo \"Test successful\" ",
-    "build": "echo \"Build successful\" ",
-    "start": "node server.js"
+    "test": "echo test passed",
+    "build": "echo build successful"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/somiya1373/1somiya.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "bugs": {
-    "url": "https://github.com/somiya1373/1somiya/issues"
-  },
-  "homepage": "https://github.com/somiya1373/1somiya#readme",
   "dependencies": {
-    "body-parser": "^2.2.2",
-    "eslint": "^10.2.1",
-    "express": "^5.2.1"
+    "eslint": "^10.2.1"
   }
 }
